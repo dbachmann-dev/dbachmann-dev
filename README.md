@@ -1,7 +1,18 @@
-<!-- Mac-Style Terminal Prompt Header -->
+<!-- Typing SVG Header mit integriertem gelben Apple-Logo -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=1000000000&color=FFDB58&repeat=false&width=600&vcenter=true&lines=%EF%A3%BF+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<!-- Pastell Cyan: > About me: -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&height=50&duration=1&pause=1000000000&color=89DDFF&repeat=false&width=250&vcenter=true&lines=%3E+About+me%3A" alt="> About me:" />
+
+👋 **Hello!**
+
+Known as **AloeVeraPlant** on the web. I'm a dual computer science student and Minecraft mod creator based in Germany, focusing mainly on custom game modifications, server plugins, and infrastructure setup.
+
+Beyond that, I occasionally explore game dev and modern web technologies. I'm especially interested in offline-first software, low-level architecture, and hardware experimentation — with a small side passion for photography.
 
 <br>
 
