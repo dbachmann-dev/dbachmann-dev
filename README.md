@@ -1,11 +1,11 @@
-<!-- Typing SVG Header -->
+<!-- Mac-Style Terminal Prompt Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=1000000000&color=FFDB58&repeat=false&width=600&vcenter=true&lines=Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=1000000000&color=FFDB58&repeat=false&width=600&vcenter=true&lines=%EF%A3%BF+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- Pastell Avocado-Grün: > Coding in: (Height auf 50px erhöht -> Nichts schneidet ab) -->
+<!-- Pastell Avocado-Grün: > Coding in: -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&height=50&duration=1&pause=1000000000&color=98C379&repeat=false&width=350&vcenter=true&lines=%3E+Coding+in%3A" alt="> Coding in:" />
 
 <!-- Skill Icons -->
