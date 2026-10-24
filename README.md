@@ -1,6 +1,6 @@
 <!-- Typing SVG Header (mit integriertem Apple-Logo & Table Flip) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=1000000000&color=FFDB58&repeat=false&width=680&vcenter=true&lines=%EF%A3%BF+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=10000&color=FFDB58&repeat=true&width=680&vcenter=true&lines=%EF%A3%BF+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB" alt="Typing SVG" />
 </a>
 
 <br><br>
