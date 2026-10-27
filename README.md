@@ -1,6 +1,6 @@
-<!-- Typing SVG Header (mit dev@mac:~ % Terminal Prompt) -->
+<!-- Typing SVG Header (Gefixt mit dev@mac:~ % Prompt) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&height=65&duration=3000&pause=10000&color=FFDB58&repeat=true&width=720&vcenter=true&lines=dev%40mac%3A%7E+%25+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&height=55&duration=3000&pause=10000&color=FFDB58&repeat=true&width=750&vcenter=true&lines=dev%40mac%3A%7E+%25+Throwing+code+at+stuff+%CA%95+%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB" alt="Typing SVG" />
 </a>
 
 <br><br>
